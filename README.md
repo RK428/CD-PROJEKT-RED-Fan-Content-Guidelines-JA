@@ -1,5 +1,7 @@
 # CD-PROJEKT-RED-Fan-Content-Guidelines-JA
-# __※必読※__
+# __※注意事項必読※__
+
+[CD PROJEKT RED 二次創作ガイドライン 2020年12月10日版（非公式日本語訳）](https://github.com/RK428/CD-PROJEKT-RED-Fan-Content-Guidelines-JA/blob/main/Guidelines-JA-Unofficial.md)
 
 ## この翻訳について
 CD PROJEKT RED による[二次創作ガイドライン(英語)](https://cdprojektred.com/fan-content/)の日本語訳（非公式）です。
@@ -30,7 +32,7 @@ __本文章の利用に応じて生じたいかなる損害及び責任につい
 ---
 #### 訳者連絡先
 
-本文章に関連する事柄については基本的にはGitHub内からお願いします。
+本文章に関連する事柄については基本的にはGitHub内からお願いします。  
 その他ご依頼やお問い合わせなどありましたら、以下へとご連絡ください。
 
 鈴谷りゅーか  
