@@ -42,4 +42,4 @@ __本文章の利用に応じて生じたいかなる損害及び責任につい
 その他ご依頼やお問い合わせなどありましたら、以下へとご連絡ください。
 
 鈴谷りゅーか  
-Twitter [@ryuka_voc](https://twitter.com/ryuka_voc)
+Twitter [@ryuka_suzuya](https://twitter.com/ryuka_suzuya)
